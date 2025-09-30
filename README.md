@@ -1,4 +1,4 @@
-# citzen-voice-analyzer
+# citizen-voice-analyzer
 A small, transparent demo for analyzing citizen feedback using rule-based sentiment detection, extractive summarization, and keyword extraction.
 
 #Features
